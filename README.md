@@ -1,6 +1,10 @@
 # AI Career Assistant
 
-An AI-powered career assistant that analyzes a candidate's resume against a target job description, identifies skill gaps, and generates a personalized learning roadmap.
+## Project Overview
+
+AI Career Assistant is an AI-powered career analysis application that helps job seekers understand how well their resume matches a target job role.
+The application analyzes the candidate's resume against a job description, identifies relevant strengths and skill gaps, and generates a personalized learning roadmap to help the candidate prepare for the role.
+It also recommends practical projects, provides interview preparation topics, and generates downloadable career analysis reports in TXT and PDF formats.
 
 ## Features
 
