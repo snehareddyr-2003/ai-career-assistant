@@ -33,15 +33,14 @@ It also recommends practical projects, provides interview preparation topics, an
 
 ## Tech Stack
 
-- Python
-- Streamlit
-- Google Gemini API
-- Google GenAI Python SDK
-- PyPDF2
-- ReportLab
-- python-dotenv
-- Regular Expressions
-- Git & GitHub
+- **Python** — Core programming language
+- **Streamlit** — Web application and user interface
+- **Google Gemini API** — AI-powered resume and career analysis
+- **Google GenAI SDK** — Integration with Gemini models
+- **PyPDF2** — Resume PDF text extraction
+- **ReportLab** — PDF career report generation
+- **python-dotenv** — Environment variable management
+- **Git & GitHub** — Version control and project hosting
 
 ## Project Structure
 
