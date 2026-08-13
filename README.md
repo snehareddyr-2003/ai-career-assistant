@@ -145,3 +145,13 @@ Provides personalized interview topics based on the target role and identified s
 Allows the user to download the complete AI-generated career analysis as a PDF report.
 
 ![Career Report](career-report.png)
+
+## Future Improvements
+
+- Deploy the application to Google Cloud
+- Add user authentication
+- Add career history and progress tracking
+- Integrate job search and job recommendations
+- Support multiple resume formats
+- Add interactive learning progress tracking
+- Improve resume recommendations and keyword optimization
