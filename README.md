@@ -98,3 +98,47 @@ streamlit run app.py
 ```
 
 The application will open in your browser.
+
+## Screenshots
+
+### 1. Dashboard
+
+Main interface for uploading a resume and entering the target job description.
+
+![Dashboard](dashboard.png)
+
+### 2. Career Analysis
+
+Displays the AI-generated job match score and overall career analysis.
+
+![Career Analysis](career-analysis.png)
+
+### 3. Skill Gap Analysis
+
+Identifies missing skills and prioritizes them based on the target role.
+
+![Skill Gap Analysis](skill-gap-analysis.png)
+
+### 4. Learning Roadmap
+
+Provides a personalized learning roadmap based on the identified skill gaps.
+
+![Learning Roadmap](learning-roadmap.png)
+
+### 5. Projects Recommendation
+
+Suggests practical projects to help the candidate improve the skills required for the target role.
+
+![Projects Recommendation](projects-recommendation.png)
+
+### 6. Interview Preparation
+
+Provides personalized interview topics based on the target role and identified skill gaps.
+
+![Interview Preparation](interview-preparation.png)
+
+### 7. Career Report
+
+Allows the user to download the complete AI-generated career analysis as a PDF report.
+
+![Career Report](career-report.png)
